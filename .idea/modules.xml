@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Main/Main.iml" filepath="$PROJECT_DIR$/Main/Main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Practica-2-E.C-Desarrollo-Orientado-Objetos.iml" filepath="$PROJECT_DIR$/.idea/Practica-2-E.C-Desarrollo-Orientado-Objetos.iml" />
     </modules>
   </component>
